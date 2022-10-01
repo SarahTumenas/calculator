@@ -1,3 +1,8 @@
+
+Lab 06: Integrating External Source Control with Azure Pipelines
+
+
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
